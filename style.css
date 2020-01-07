@@ -1,0 +1,16 @@
+footer {
+    background-color: #0081b9;
+    color: white;
+}
+
+
+
+.mainDetailsTitle {
+    color: #0081b9;
+}
+
+
+section + section{
+    border-top: 1px solid black;
+    padding: 8px 0 8px 0;
+}
